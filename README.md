@@ -2,10 +2,10 @@
 #<b>**ABOUT ME** </b>
 
 
-┣ ***RL NAME : NEFIN M S 🧸***                                                                                       
-┣  ***TG NAME : POISON***                                                             
+┣ ***RL NAME : ALWIN BIJU 🧸***                                                                                       
+┣  ***TG NAME : GT HERO***                                                             
 ┣  ***CURRENTLY STUDYING  🍫***                   
-┣  ***STD : 0***            
+┣  ***STD : 9 ᵗʰ***            
 ┣  ***LEARNING PYTHON,JAVA*** ⚡️                            
 ┣ ***FROM INDIA [🇮🇳]***                            
 ┣  ***BLINK***  , ***CHOICE***  💜                    

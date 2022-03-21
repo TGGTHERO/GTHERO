@@ -20,7 +20,7 @@
 
  <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://te.legra.ph/file/3e4a637c82b4e8af8ef59.jpg" width="250"></a> </p> 
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_cat_boi._) <a href="https://telegram.dog/GTHero"><img src="https://telegra.ph/file/6098047142dec2b0cba9b.jpg" width="114"></a></p> 
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alwin_biju_2006) <a href="https://telegram.dog/GTHero"><img src="https://telegra.ph/file/6098047142dec2b0cba9b.jpg" width="114"></a></p> 
 <details> <summary> <b> #Status </b> </summary>
  
 #### + _Poisons's Github Stats_
